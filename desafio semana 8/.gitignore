@@ -1,0 +1,9 @@
+# Ignorar binarios y jsons generados
+*.bin
+*.dat
+*.json
+*.jsonl
+
+# Ignorar cache de python
+__pycache__/
+*.pyc
