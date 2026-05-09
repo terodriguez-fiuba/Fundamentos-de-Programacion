@@ -52,5 +52,5 @@ resultado, hojas = combinaciones_rec(["1","2","3","4"], 2)
 print(f"Combinaciones: {resultado}")
 print(f"Hojas del árbol de recursión: {hojas}")
 
-# Comparación con la función built-in de itertools
+# Comparación con la función built-in de    
 print(list(itertools.combinations(["1","2","3","4"], 2)))
